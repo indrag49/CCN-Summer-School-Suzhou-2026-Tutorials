@@ -64,6 +64,7 @@ This repository contains the series of tutorials I provided as a TA at the [Cold
 
 </tbody>
 </table>
+
 ## Structure
 
 - **Day 1:** Scientific Python for computational neuroscience  
