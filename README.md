@@ -62,7 +62,13 @@ This repository contains the series of tutorials I provided as a TA at the [Cold
 <td><a href="https://colab.research.google.com/github/indrag49/CCN-Summer-School-Suzhou-2026-Tutorials/blob/main/neuronal%20and%20network%20dynamics.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
 </tr>
 
-<tr> <td><a href="https://github.com/indrag49/CCN-Summer-School-Suzhou-2026-Tutorials/blob/main/GPU_computing_with_JAX.ipynb">GPU Computing with JAX</a></td> <td><a href="https://colab.research.google.com/github/indrag49/CCN-Summer-School-Suzhou-2026-Tutorials/blob/main/GPU_computing_with_JAX.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a></td> </tr>
+<tr>
+<td><b>Day 8</b></td>
+<td>GPU computing using `JAX`</td>
+<td> </td>
+<td><a href="https://github.com/indrag49/CCN-Summer-School-Suzhou-2026-Tutorials/blob/main/GPU_computing_with_JAX.ipynb">Notebook</a></td>
+<td><a href="[https://colab.research.google.com/github/indrag49/CCN-Summer-School-Suzhou-2026-Tutorials/blob/main/neuronal%20and%20network%20dynamics.ipynb](https://colab.research.google.com/github/indrag49/CCN-Summer-School-Suzhou-2026-Tutorials/blob/main/GPU_computing_with_JAX.ipynb)"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+</tr>
 
 </tbody>
 </table>
