@@ -67,7 +67,7 @@ This repository contains the series of tutorials I provided as a TA at the [Cold
 <td>GPU computing using JAX</td>
 <td> </td>
 <td><a href="https://github.com/indrag49/CCN-Summer-School-Suzhou-2026-Tutorials/blob/main/GPU_computing_with_JAX.ipynb">Notebook</a></td>
-<td><a href="https://colab.research.google.com/github/indrag49/CCN-Summer-School-Suzhou-2026-Tutorials/blob/main/neuronal%20and%20network%20dynamics.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+<td><a href="https://colab.research.google.com/github/indrag49/CCN-Summer-School-Suzhou-2026-Tutorials/blob/main/GPU_computing_with_JAX.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
 </tr>
 
 </tbody>
