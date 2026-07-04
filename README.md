@@ -1,6 +1,6 @@
 # CCN Summer School Suzhou 2026 Tutorials
 
-This repository contains the series of tutorials I provided as a TA at the [Cold Spring Harbour Summer School in Computational and Cognitive Neuroscience, 2026](https://ccnss.wordpress.com/).
+This repository contains the series of tutorials provided at the [Cold Spring Harbour Summer School in Computational and Cognitive Neuroscience, 2026](https://ccnss.wordpress.com/).
 
 ### Before you begin
 
