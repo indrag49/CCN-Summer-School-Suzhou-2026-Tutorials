@@ -2,15 +2,11 @@
 
 This repository contains the series of tutorials provided at the [Cold Spring Harbour Summer School in Computational and Cognitive Neuroscience, 2026](https://ccnss.wordpress.com/).
 
-### Before you begin
+### To start with
 
-Open the notebook in Colab, then immediately choose:
+Open the notebook in Colab and choose: **File -> Save a copy in Drive**
 
-**File → Save a copy in Drive**
-
-Work only on your own Drive copy. Then enable GPU:
-
-**Runtime → Change runtime type → Hardware accelerator → GPU**
+Enable GPU: **Runtime -> Change runtime type -> Hardware accelerator -> T4 GPU**
 
 
 ## Tutorials
