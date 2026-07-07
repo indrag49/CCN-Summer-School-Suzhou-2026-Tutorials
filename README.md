@@ -88,3 +88,4 @@ Work only on your own Drive copy. Then enable GPU:
 
 - **Day 1:** Scientific Python for computational neuroscience  
 - **Day 2:** Neuronal and network dynamics
+- **Day 8:** GPU computing using JAX
